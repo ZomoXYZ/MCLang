@@ -6,7 +6,7 @@ Library to make creating and interpreting language files easier
 
 [JDK](https://openjdk.java.net/install/) and [Maven](https://maven.apache.org/install.html) are required
 
-Running the `build.sh` file will both compile and install MCCommands into your local repository
+Running the `build.sh` file will both compile and install MCLang into your local repository
 
 ## Using
 
