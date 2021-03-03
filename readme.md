@@ -1,4 +1,4 @@
-# MCCommands
+# MCLang
 
 Library to make creating command structures easier
 
@@ -16,8 +16,8 @@ In your `pom.xml`, add
 <dependencies>
     <dependency>
         <groupId>dev.zomo</groupId>
-        <artifactId>MCCommands</artifactId>
-        <version>1.0.0</version>
+        <artifactId>MCLang</artifactId>
+        <version>1.0.4</version>
     </dependency>
 </dependencies>
 ```
