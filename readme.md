@@ -1,6 +1,6 @@
 # MCLang
 
-Library to make creating command structures easier
+Library to make creating and interpreting language files easier
 
 ## Install
 
